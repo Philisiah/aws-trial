@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     'paypal.standard.ipn',
     'transactions',
     'payments',
-    'testing',
 
     # third party libs
     'allauth',
